@@ -1,0 +1,13 @@
+{
+  "name": "convertsation-chat",
+  "version": "0.0.1",
+  "description": "Convertsation Chat Client",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dahack765/dahack765.github.io.git"
+  }
+}
