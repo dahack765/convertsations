@@ -2,9 +2,9 @@
   "name": "convertsation-chat",
   "version": "0.0.1",
   "description": "Convertsation Chat Client",
+  "main": "index.js",
   "dependencies": {
-    "express": "^4.15.2",
-    "socket.io": "^1.7.3"
+    "express": "4.13.4",
   },
   "scripts": {
     "start": "node index.js"
