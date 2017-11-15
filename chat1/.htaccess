@@ -1,1 +1,0 @@
-RedirectMatch 301 /chat1(.*) https://convertsation.herokuapp.com$1
